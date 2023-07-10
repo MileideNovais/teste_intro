@@ -1,0 +1,7 @@
+criar ambiente virtual ( python3 -m venv ./env)
+
+ativar ambiente (source ./env/bin/activate)
+
+instalar (pip install unittest2)
+
+python -m unittest -v teste.py ou python3 -m unittest discover ./ (comando para  testar)u
